@@ -1,0 +1,31 @@
+npm run test
+
+npm i flow-bin --save-dev
+
+ "scripts": {
+    .............
+    "flow": "flow"
+  },
+
+npm run flow init  
+
+App: // @flow
+
+npm run flow 
+
+// npm i -g eslint
+// eslint --init
+npm init @eslint/config
+
+npm i react-test-renderer
+
+'u' - for rerender failed snapshots
+
+  "scripts": {
+    ...........................
+    "test": "react-scripts test",
+    "coverage": "npm-run-test -- --coverage",
+    ...........................
+  },
+
+npm run coverage
